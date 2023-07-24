@@ -3,6 +3,7 @@
 ### Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python)
 ![React](https://img.shields.io/badge/-React-333?style=flat-square&logo=react)
 ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat-square&logo=css3&logoColor=10a0dc)
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat-square&logo=html5)<br>
